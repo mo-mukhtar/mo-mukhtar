@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/mohamed-o-mukhtar">Mohamed Mukhtar</a></b>
+                <b><a href="https://www.linkedin.com/in/mohamed-o-mukhtar" target="_blank">Mohamed Mukhtar</a></b>
         </samp>
 </h3>
 <br>
