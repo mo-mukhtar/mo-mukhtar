@@ -5,8 +5,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a href="https://www.linkedin.com/in/mohamed-o-mukhtar" target="_blank">Mohamed Mukhtar</a></b>
+        <samp>&gt; Hey There!,<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I am
+                <b><a href="https://www.linkedin.com/in/mohamed-o-mukhtar" target="_blank">Mohamed Mukhtar</a> </b>
         </samp>
 </h3>
 <br>
