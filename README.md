@@ -16,7 +16,11 @@
         <samp>
                 「 Associate SRE at Sky 」
                 <br>
-                「 Hello World🌐! I am an Associate Site Reliability Engineer at <b> Sky <b>  」
+                「 Hello World 🌐 ! I am an Associate Site Reliability Engineer at   
+                <a href="https://www.sky.com/" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/Sky-0072C9.svg?style=flat-square&logo=Sky&logoColor=white">
+                </a>
+                」
                 <br>
                 <br>
         </samp>
