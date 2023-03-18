@@ -15,7 +15,7 @@
 
 <!-- Typing  -->
 <div align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sky&weight=100&size=18&duration=1500&pause=1000&color=FDC956&width=435&lines=>+Site+Reliability+Engineer+at+Sky+;>+Passionate+About+Tech;>+Interested+in+Cloud+%26+Full+Stack+;>+Always+Learning" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sky&weight=100&size=16&duration=1500&pause=1000&color=FDC956&width=435&lines=>+Site+Reliability+Engineer+at+Sky+;>+Passionate+About+Tech;>+Interested+in+Cloud+%26+Full+Stack+;>+Always+Learning" alt="Typing SVG" /></a>
 </div>
 
 <br>
